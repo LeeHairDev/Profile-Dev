@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bibhuti5&label=Profile%20views&color=0e75b6&style=flat" alt="Bibhuti5" /> </p>
 
-- 🔭 I’m currently working on **Software Developer At Capgemini**
-
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Data Science , MEARN**
+- 💬 Ask me about **React JS, CSS, HTML**
 
-- 📫 How to reach me **bibhutibhusan504@gmail.com**
+- 📫 How to reach me **leehairdev.it@gmial.com**
 
 - ⚡ Fun fact **I am Funny**
 
